@@ -7,13 +7,13 @@ A modular and responsive Calculator application built using **HTML5**, **CSS3**,
 ---
 
 ## Live Demo
-Yet to be added
+(https://calculator-np90jx4ne-red240422.vercel.app/)
 
 
 ---
 
 ## GitHub Repository
-Soon to be included
+(https://github.com/Radhi2422/Calculator/tree/main)
 
 ---
 
